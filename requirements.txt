@@ -1,2 +1,8 @@
 streamlit
 openai
+langchain-openai
+langchain-text-splitters                                               
+langchain-community
+faiss-cpu                                                              
+pypdf           
+sentence-transformers
